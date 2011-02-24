@@ -1,0 +1,8 @@
+we're using Ruby 1.9.2
+
+make sure Gemfile looks like this, following the tutorial at http://devcenter.heroku.com/articles/facebook
+
+source :gemcutter
+
+gem 'sinatra', '1.0'
+gem 'oa-oauth', '0.1.6'
